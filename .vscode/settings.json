@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "algorithm": "cpp",
+    "utility": "cpp",
+    "iostream": "cpp",
+    "new": "cpp",
+    "locale": "cpp",
+    "typeinfo": "cpp",
+    "vector": "cpp",
+    "random": "cpp"
+  }
+}
